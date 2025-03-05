@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BU_BarcodeScanner.Android", "BU_BarcodeScanner\BU_BarcodeScanner.Android\BU_BarcodeScanner.Android.csproj", "{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BU_BarcodeScanner.iOS", "BU_BarcodeScanner\BU_BarcodeScanner.iOS\BU_BarcodeScanner.iOS.csproj", "{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BU_BarcodeScanner", "BU_BarcodeScanner\BU_BarcodeScanner\BU_BarcodeScanner.csproj", "{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{CADFD0D8-2EC0-46DA-ABDF-7D1DC1915FC0}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071D1EE9-B482-48D9-88F3-FBFC0419C932}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BU_BarcodeScanner.Views.ItemsPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:BU_BarcodeScanner.ViewModels"  
+             xmlns:model="clr-namespace:BU_BarcodeScanner.Models"  
+             x:Name="BrowseItemsPage">
+    <!--
+      x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
+      https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
+    -->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Clear All" Command="{Binding ClearAllItemsCommand}">
+            
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <RefreshView x:DataType="local:ItemsViewModel" Command="{Binding LoadItemsCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+        <CollectionView x:Name="ItemsListView"
+                ItemsSource="{Binding Items}"
+                SelectionMode="None">
+            <CollectionView.EmptyView>
+                <Label
+                    Padding="0,40,0,40"
+                    FontSize="Medium"
+                    HorizontalTextAlignment="Center"
+                    TextColor="Black"
+                    >
+                    No items scanned yet.
+                </Label>
+            </CollectionView.EmptyView>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+
+                    <Grid x:DataType="model:Item" Padding="20">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                            
+                        <Label 
+                            Text="{Binding ProductName}" 
+                            LineBreakMode="TailTruncation" 
+                            Style="{DynamicResource ListItemTextStyle}" 
+                            FontSize="18"
+                            Grid.Column="0"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                        />
+                        
+                        <Label 
+                            Text="{Binding SKUId,StringFormat='SKU ID: {0}'}" 
+                            LineBreakMode="NoWrap"
+                            Style="{DynamicResource ListItemDetailTextStyle}"
+                            FontSize="13"
+                            Grid.Column="0"
+                            Grid.Row="1"
+                            TextColor="Black"
+                        />
+
+
+                        <Label 
+                            Text="{Binding Quantity, StringFormat='x {0}'}" 
+                            LineBreakMode="NoWrap"
+                            Style="{DynamicResource ListItemDetailTextStyle}"
+                            FontSize="23"
+                            Grid.Column="1"
+                            Grid.RowSpan="2"
+                            HorizontalTextAlignment="End"
+                            VerticalTextAlignment="Center"
+                            Margin="20,0,0,0"
+                            FontAttributes="Bold"
+                            TextColor="Black"
+                            
+                            
+                        />
+
+                        <Button 
+                            Text="Remove" 
+                            Grid.Column="3"
+                            Grid.RowSpan="2"
+                            FontSize="12"
+                            BackgroundColor="IndianRed"
+                            TextTransform="None"
+                            Command="{Binding Source={RelativeSource AncestorType={x:Type local:ItemsViewModel}}, Path=ItemDeleteClicked}"
+                            CommandParameter="{Binding SKUId}"
+                        ></Button>
+                    </Grid>
+
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBtMSXbemv0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.iOS\\BU_BarcodeScanner.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anium\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\anium\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\anium\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\anium\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\anium\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

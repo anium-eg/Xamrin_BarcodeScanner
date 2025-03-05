@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BU_BarcodeScanner.Views.LoginPage"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content>
+        <StackLayout Padding="50,0,50,0">
+            <Image Source="cart_icon" HeightRequest="70" Margin="0,100,0,0"></Image>
+            <Label Text="EG Mobile POS" TextColor="Black" FontSize="30" HorizontalTextAlignment="Center" FontAttributes="Bold"  Margin="0,0,0,90"/>
+
+
+            <Entry Placeholder="Cashier Id" Text="{Binding CashierId}" TextColor="Black" PlaceholderColor="Gray" Visual="Material" />
+
+            <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" TextColor="Black" PlaceholderColor="Gray" Visual="Material"/>
+
+
+            <Label Text="Invalid Credentials. Try again." FontAttributes="Bold" TextColor="IndianRed" IsVisible="{Binding ShowInvalidText}"></Label>
+
+            <Button VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}" Margin="0,20,0,0"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
