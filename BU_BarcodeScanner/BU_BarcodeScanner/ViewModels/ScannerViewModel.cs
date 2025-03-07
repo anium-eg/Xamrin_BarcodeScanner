@@ -21,10 +21,7 @@ namespace BU_BarcodeScanner.ViewModels
             LogoutCommand = new Command(Logout);
             dataStore = DependencyService.Get<IDataStore<Item>>();
             inventory = DependencyService.Get<Inventory>();
-
         }
-
-
 
         public ICommand OpenScannerCommand { get; }
         public ICommand LogoutCommand { get; }
@@ -53,7 +50,7 @@ namespace BU_BarcodeScanner.ViewModels
                 }
                 else
                 {
-                    await Application.Current.MainPage.DisplayAlert("Invalid Item!", "Please scan a valid item.", "Ok");
+                    await Application.Current.MainPage.DisplayAlert("Item not in inventory", $"Item with SKU Id:{result.Text} is not in the inventory.", "Ok");
                 }
 
             }
@@ -64,8 +61,6 @@ namespace BU_BarcodeScanner.ViewModels
             Preferences.Set("isLoggedIn", false);
             await Shell.Current.GoToAsync("//LoginPage");
         }
-
-
 
     }
 }

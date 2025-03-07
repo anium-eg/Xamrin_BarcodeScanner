@@ -12,8 +12,6 @@ namespace BU_BarcodeScanner.Services
 {
     public class MockDataStore : IDataStore<Item>
     {
-        
-
         readonly ObservableCollection<Item> items;
         public MockDataStore()
         {
@@ -24,13 +22,10 @@ namespace BU_BarcodeScanner.Services
         {
 
             Item currentItem = items.FirstOrDefault(itemInStore => itemInStore.SKUId == item.SKUId);
-
             if (currentItem != null)
                 currentItem.Quantity += 1;
-
             else
                 items.Add(item);
-
             return await Task.FromResult(true);
         }
 
@@ -39,7 +34,6 @@ namespace BU_BarcodeScanner.Services
             var oldItem = items.Where((Item arg) => arg.SKUId == item.SKUId).FirstOrDefault();
             items.Remove(oldItem);
             items.Add(item);
-
             return await Task.FromResult(true);
         }
 
@@ -47,7 +41,6 @@ namespace BU_BarcodeScanner.Services
         {
             var oldItem = items.Where((Item arg) => arg.SKUId == id).FirstOrDefault();
             items.Remove(oldItem);
-
             return await Task.FromResult(true);
         }
 

@@ -16,7 +16,6 @@ namespace BU_BarcodeScanner.ViewModels
     public class ItemsViewModel : BaseViewModel
     {
         private Item _selectedItem;
-
         public ObservableCollection<Item> Items { get; }
         public Command LoadItemsCommand { get; }
         public Command AddItemCommand { get;  }
@@ -31,9 +30,7 @@ namespace BU_BarcodeScanner.ViewModels
             Title = "Cart";
             Items = new ObservableCollection<Item>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
-
             inventory = DependencyService.Get<IDataStore<Item>>();
-
             ItemDeleteClicked = new Command<string>(OnItemDelete);
             ClearAllItemsCommand = new Command(ClearAllItems);
         }
@@ -66,8 +63,6 @@ namespace BU_BarcodeScanner.ViewModels
             IsBusy = true;
         }
 
-
-  
         async void OnItemDelete(string id)
         {
             await inventory.DeleteItemAsync(id);
