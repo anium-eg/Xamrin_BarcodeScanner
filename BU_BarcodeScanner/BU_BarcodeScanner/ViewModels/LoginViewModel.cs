@@ -68,7 +68,7 @@ namespace BU_BarcodeScanner.ViewModels
 
         private async void OnLoginClicked(object obj)
         {
-            if (CashierId == "cash001" && Password == "passpass")
+            if (CashierId == "cash001" && Password == "password")
             {
                 Preferences.Set("isLoggedIn", true);
                 await Shell.Current.GoToAsync($"//{nameof(ScannerPage)}");
