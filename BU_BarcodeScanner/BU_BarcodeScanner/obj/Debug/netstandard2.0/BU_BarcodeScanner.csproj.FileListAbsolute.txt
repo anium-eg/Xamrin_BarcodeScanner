@@ -16,3 +16,4 @@ C:\Users\anium\source\repos\BU_BarcodeScanner\BU_BarcodeScanner\BU_BarcodeScanne
 C:\Users\anium\source\repos\BU_BarcodeScanner\BU_BarcodeScanner\BU_BarcodeScanner\obj\Debug\netstandard2.0\BU_BarcodeScanner.dll
 C:\Users\anium\source\repos\BU_BarcodeScanner\BU_BarcodeScanner\BU_BarcodeScanner\obj\Debug\netstandard2.0\refint\BU_BarcodeScanner.dll
 C:\Users\anium\source\repos\BU_BarcodeScanner\BU_BarcodeScanner\BU_BarcodeScanner\obj\Debug\netstandard2.0\BU_BarcodeScanner.pdb
+C:\Users\anium\source\repos\BU_BarcodeScanner\BU_BarcodeScanner\BU_BarcodeScanner\obj\Debug\netstandard2.0\BU_BarcodeScanner.sourcelink.json

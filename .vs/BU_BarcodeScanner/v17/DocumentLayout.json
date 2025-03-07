@@ -3,88 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\viewmodels\\scannerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\viewmodels\\scannerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\services\\mockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\services\\mockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\services\\idatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\itemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\itemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\scannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\bu_barcodescanner\\bu_barcodescanner.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0B56BE3-5800-4DE3-A909-15AF77DC6CC7}|BU_BarcodeScanner\\BU_BarcodeScanner.Android\\BU_BarcodeScanner.Android.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|c:\\users\\anium\\source\\repos\\bu_barcodescanner\\bu_barcodescanner\\bu_barcodescanner\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BED40F5-BE9C-48F5-89E4-CA18FFCACB49}|BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.csproj|solutionrelative:bu_barcodescanner\\bu_barcodescanner\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,89 +98,157 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:20:09.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T04:42:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T11:54:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:10:01.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:03:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScannerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T04:48:41.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T12:15:30.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScannerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:48:46.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:03:21.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvyAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:51:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T03:54:01.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Resource.designer.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
-              "ViewState": "AgIAAHZqAAAAAAAAAAASwMpqAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:25:42.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "colors.xml",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-03-05T05:24:02.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "styles.xml",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-03-05T05:21:31.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:20:46.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:41:42.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\AssemblyInfo.cs",
@@ -189,7 +261,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:20:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:41:42.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\App.xaml",
               "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\App.xaml",
@@ -202,146 +299,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ItemsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-04T11:54:36.728Z",
+              "DocumentIndex": 12,
+              "Title": "ItemsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ItemsPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:09:54.69Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-04T12:15:30.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:15:29.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\IDataStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:03:20.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\BaseViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:10:01.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MockDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\MockDataStore.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:03:21.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Services\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:20:09.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ItemsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ItemsViewModel.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwCAAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:51:41.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScannerPage.xaml",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T04:48:41.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\AppShell.xaml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowCQAAACDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T04:42:01.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\App.xaml.cs",
               "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\App.xaml.cs",
               "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\App.xaml.cs",
               "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:41:47.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:41:47.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ScannerPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml.cs",
               "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\ScannerPage.xaml.cs",
@@ -354,16 +337,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ScannerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
-              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
-              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
-              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\ViewModels\\ScannerViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswEYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:48:46.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T12:15:29.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "styles.xml",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\styles.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-05T05:21:31.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-05T05:24:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
+              "ToolTip": "C:\\Users\\anium\\source\\repos\\BU_BarcodeScanner\\BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "BU_BarcodeScanner\\BU_BarcodeScanner.Android\\Resources\\Resource.designer.cs",
+              "ViewState": "AgIAAHZqAAAAAAAAAAASwMpqAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:25:42.521Z"
             }
           ]
         }
